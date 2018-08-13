@@ -1,0 +1,14 @@
+C:\Users\murat\Desktop\Dersler\Öğrenci_Not_Kayıt\Öğrenci_Not_Kayıt\bin\Debug\Öğrenci_Not_Kayıt.exe.config
+C:\Users\murat\Desktop\Dersler\Öğrenci_Not_Kayıt\Öğrenci_Not_Kayıt\bin\Debug\Öğrenci_Not_Kayıt.exe
+C:\Users\murat\Desktop\Dersler\Öğrenci_Not_Kayıt\Öğrenci_Not_Kayıt\bin\Debug\Öğrenci_Not_Kayıt.pdb
+C:\Users\murat\Desktop\Dersler\Öğrenci_Not_Kayıt\Öğrenci_Not_Kayıt\obj\Debug\Öğrenci_Not_Kayıt.csprojResolveAssemblyReference.cache
+C:\Users\murat\Desktop\Dersler\Öğrenci_Not_Kayıt\Öğrenci_Not_Kayıt\obj\Debug\Öğrenci_Not_Kayıt.Form1.resources
+C:\Users\murat\Desktop\Dersler\Öğrenci_Not_Kayıt\Öğrenci_Not_Kayıt\obj\Debug\Öğrenci_Not_Kayıt.Properties.Resources.resources
+C:\Users\murat\Desktop\Dersler\Öğrenci_Not_Kayıt\Öğrenci_Not_Kayıt\obj\Debug\Öğrenci_Not_Kayıt.csproj.GenerateResource.Cache
+C:\Users\murat\Desktop\Dersler\Öğrenci_Not_Kayıt\Öğrenci_Not_Kayıt\obj\Debug\Öğrenci_Not_Kayıt.exe
+C:\Users\murat\Desktop\Dersler\Öğrenci_Not_Kayıt\Öğrenci_Not_Kayıt\obj\Debug\Öğrenci_Not_Kayıt.pdb
+C:\Users\murat\Desktop\Dersler\Öğrenci_Not_Kayıt\Öğrenci_Not_Kayıt\obj\Debug\Öğrenci_Not_Kayıt.FrmOgretmen.resources
+C:\Users\murat\Desktop\Dersler\Öğrenci_Not_Kayıt\Öğrenci_Not_Kayıt\obj\Debug\Öğrenci_Not_Kayıt.FrmDuyuruOlustur.resources
+C:\Users\murat\Desktop\Dersler\Öğrenci_Not_Kayıt\Öğrenci_Not_Kayıt\obj\Debug\Öğrenci_Not_Kayıt.FrmDuyuruListesi.resources
+C:\Users\murat\Desktop\Dersler\Öğrenci_Not_Kayıt\Öğrenci_Not_Kayıt\obj\Debug\Öğrenci_Not_Kayıt.FrmMesjalar.resources
+C:\Users\murat\Desktop\Dersler\Öğrenci_Not_Kayıt\Öğrenci_Not_Kayıt\obj\Debug\Öğrenci_Not_Kayıt.FrmOgrenci.resources
